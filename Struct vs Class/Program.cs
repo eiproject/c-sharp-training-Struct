@@ -12,7 +12,7 @@ namespace Struct_vs_Class
 
       Rectangle R2 = R;
       R2.AreaSize = 10;
-      Console.WriteLine(R.AreaSize);
+      Console.WriteLine(R.AreaSize); // not affected by SET
       Console.WriteLine(R2.AreaSize);
 
       // class

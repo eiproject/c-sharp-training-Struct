@@ -4,6 +4,7 @@ namespace Struct_vs_Class
 {
   struct Rectangle
   {
+    /*int areaSize = 1; // error on struct */
     int areaSize;
     internal Rectangle(int p, int l)
     {
@@ -17,6 +18,7 @@ namespace Struct_vs_Class
 
   class RectangleC
   {
+    /*int areaSize = 1; // OK*/
     int areaSize;
     internal RectangleC(int p, int l)
     {
