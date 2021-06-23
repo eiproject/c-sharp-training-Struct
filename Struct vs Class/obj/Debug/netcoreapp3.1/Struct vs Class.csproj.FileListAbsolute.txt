@@ -1,0 +1,13 @@
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\bin\Debug\netcoreapp3.1\Struct vs Class.exe
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\bin\Debug\netcoreapp3.1\Struct vs Class.deps.json
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\bin\Debug\netcoreapp3.1\Struct vs Class.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\bin\Debug\netcoreapp3.1\Struct vs Class.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\bin\Debug\netcoreapp3.1\Struct vs Class.dll
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\bin\Debug\netcoreapp3.1\Struct vs Class.pdb
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\obj\Debug\netcoreapp3.1\Struct vs Class.csprojAssemblyReference.cache
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\obj\Debug\netcoreapp3.1\Struct vs Class.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\obj\Debug\netcoreapp3.1\Struct vs Class.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\obj\Debug\netcoreapp3.1\Struct vs Class.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\obj\Debug\netcoreapp3.1\Struct vs Class.dll
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\obj\Debug\netcoreapp3.1\Struct vs Class.pdb
+C:\Lab Formulatrix\TrainingFullStruct\Struct vs Class\obj\Debug\netcoreapp3.1\Struct vs Class.genruntimeconfig.cache

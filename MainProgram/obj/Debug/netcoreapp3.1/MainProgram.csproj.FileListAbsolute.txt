@@ -1,0 +1,12 @@
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.exe
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.deps.json
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.dll
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.pdb
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.dll
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.pdb
+C:\Lab Formulatrix\TrainingFullStruct\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.genruntimeconfig.cache
