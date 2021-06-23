@@ -1,1 +1,1 @@
-"# c-sharp-training-Struct" 
+# c-sharp-training-Struct
